@@ -26,7 +26,7 @@ dart run bin/dev_api.dart
 **Terminal 2 — aplicação Web**
 
 ```shell
-flutter run -d chrome -t lib/main_web.dart --web-port 5000
+flutter run -d chrome -t lib/main_web.dart 
 ```
 
 Abra `http://localhost:5000`, cadastre uma conta pela tela e faça login. Não há
